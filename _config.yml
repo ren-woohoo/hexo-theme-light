@@ -6,15 +6,10 @@ menu:
 widgets:
 - search
 - category
-- archive
 - tagcloud
 - links
 
 excerpt_link: Read More
-
-weixin:
-  qrcode:
-  alt: "欢迎关注个人公众号"
 
 fancybox: true
 
@@ -32,3 +27,11 @@ facebook:
 links:
   谷歌: www.google.com
   百度: www.baidu.com
+
+# gitalk:
+#   clientID:
+#   clientSecret:
+#   repo:
+#   owner:
+#   admin:
+#   distractionFreeMode: false
